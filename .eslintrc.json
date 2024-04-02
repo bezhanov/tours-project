@@ -8,6 +8,7 @@
         "endOfLine": "auto"
       }
     ],
+    "arrow-body-style": ["error", "always"],
     "spaced-comment": "off",
     "no-console": "off",
     "consistent-return": "off",
