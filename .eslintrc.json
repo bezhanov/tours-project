@@ -8,7 +8,13 @@
         "endOfLine": "auto"
       }
     ],
-    "arrow-body-style": ["error", "always"],
+    "import/no-useless-path-segments": [
+      "error",
+      {
+        "noUselessIndex": true
+      }
+    ],
+    "arrow-body-style": ["error", "as-needed"],
     "spaced-comment": "off",
     "no-console": "off",
     "consistent-return": "off",
